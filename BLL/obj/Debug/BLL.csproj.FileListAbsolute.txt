@@ -1,0 +1,12 @@
+E:\12th Semester pdf\.Net\Codes\NewsTask\BLL\bin\Debug\BLL.dll
+E:\12th Semester pdf\.Net\Codes\NewsTask\BLL\bin\Debug\BLL.pdb
+E:\12th Semester pdf\.Net\Codes\NewsTask\BLL\bin\Debug\DAL.dll
+E:\12th Semester pdf\.Net\Codes\NewsTask\BLL\bin\Debug\EntityFramework.dll
+E:\12th Semester pdf\.Net\Codes\NewsTask\BLL\bin\Debug\DAL.pdb
+E:\12th Semester pdf\.Net\Codes\NewsTask\BLL\bin\Debug\DAL.dll.config
+E:\12th Semester pdf\.Net\Codes\NewsTask\BLL\bin\Debug\EntityFramework.xml
+E:\12th Semester pdf\.Net\Codes\NewsTask\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\12th Semester pdf\.Net\Codes\NewsTask\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\12th Semester pdf\.Net\Codes\NewsTask\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\12th Semester pdf\.Net\Codes\NewsTask\BLL\obj\Debug\BLL.dll
+E:\12th Semester pdf\.Net\Codes\NewsTask\BLL\obj\Debug\BLL.pdb

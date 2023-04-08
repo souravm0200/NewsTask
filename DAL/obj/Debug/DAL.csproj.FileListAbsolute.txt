@@ -1,0 +1,14 @@
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\bin\Debug\DAL.dll.config
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\bin\Debug\DAL.dll
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\bin\Debug\DAL.pdb
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\bin\Debug\EntityFramework.dll
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\bin\Debug\EntityFramework.xml
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\obj\Debug\DAL.Migrations.FirstDB.resources
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\obj\Debug\DAL.dll
+E:\12th Semester pdf\.Net\Codes\NewsTask\DAL\obj\Debug\DAL.pdb
